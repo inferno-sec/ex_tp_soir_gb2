@@ -1,1 +1,2 @@
 Version1 : Catalogue des livres disponible
+Version2 : Gestion des emprunts activée
